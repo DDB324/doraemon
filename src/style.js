@@ -185,7 +185,7 @@ const string = `
     top: 25%;
     left: 15%;
     border-radius: 50%;
-    animation: change 1s infinite alternate;
+    animation: change 1s 0.1s infinite alternate;
 }
 
 .left-blusher::before {
